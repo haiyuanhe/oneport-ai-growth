@@ -6,6 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import LanguageSwitcher from '@/components/LanguageSwitcher';
+import Footer from '@/components/Footer';
 
 const Login = () => {
   const { t } = useTranslation();
@@ -82,6 +83,8 @@ const Login = () => {
           </CardContent>
         </Card>
       </div>
+      
+      <Footer />
     </div>
   );
 };

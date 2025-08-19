@@ -7,6 +7,7 @@ import { Label } from "@/components/ui/label";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Checkbox } from "@/components/ui/checkbox";
 import LanguageSwitcher from '@/components/LanguageSwitcher';
+import Footer from '@/components/Footer';
 
 const SignUp = () => {
   const { t } = useTranslation();
@@ -139,6 +140,8 @@ const SignUp = () => {
           </CardContent>
         </Card>
       </div>
+      
+      <Footer />
     </div>
   );
 };

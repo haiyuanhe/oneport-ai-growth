@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import Navigation from '@/components/Navigation';
+import Footer from '@/components/Footer';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Target, Eye, Heart, Users, Clock, Award, Quote } from "lucide-react";
@@ -183,6 +184,8 @@ const About = () => {
           </div>
         </div>
       </section>
+      
+      <Footer />
     </div>
   );
 };

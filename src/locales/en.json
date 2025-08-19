@@ -192,5 +192,14 @@
       "loginLink": "Already have an account? Log in",
       "terms": "By signing up, you agree to our Terms of Service and Privacy Policy"
     }
+  },
+  "footer": {
+    "slogan": "ONEPORT AI -- Grow Global, Work Simple",
+    "copyright": "© 2025 Oneport. 浙ICP备2025168762号",
+    "contact": {
+      "address": "Room 1101, JWK Wangsheng Building, Binjiang District, Hangzhou",
+      "phone": "(0571) 8677 1953",
+      "email": "service@oneportai.com"
+    }
   }
 }

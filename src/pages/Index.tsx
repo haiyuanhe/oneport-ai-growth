@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import Navigation from '@/components/Navigation';
+import Footer from '@/components/Footer';
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { ArrowRight, BarChart3, Brain, Network } from "lucide-react";
@@ -112,6 +113,8 @@ const Index = () => {
           </div>
         </div>
       </section>
+      
+      <Footer />
     </div>
   );
 };
