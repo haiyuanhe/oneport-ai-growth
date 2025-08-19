@@ -1,0 +1,196 @@
+{
+  "nav": {
+    "home": "Home",
+    "amazonSolutions": "Amazon Solutions",
+    "aboutUs": "About Us",
+    "login": "Log In",
+    "signUp": "Sign Up",
+    "language": "Language"
+  },
+  "home": {
+    "heroTitle": "ONEPORT AI — From 'navigating complexity' to 'intelligent growth' in cross-border operations",
+    "heroSubtitle": "Unified data hub + AI Agent automation + service provider collaboration network — building an all-in-one intelligent operation ecosystem for cross-border merchants, cutting costs and boosting efficiency by 30%+",
+    "ctaButton": "Experience AI assistant HiFire now",
+    "ctaSubtext": "Get a free cross-border compliance diagnostic report",
+    "statsTitle": "Trusted by Global Merchants",
+    "stats": {
+      "merchants": "500+ merchants",
+      "efficiency": "70% faster onboarding",
+      "growth": "30%+ cost reduction"
+    },
+    "featuresTitle": "Intelligent Collaboration Drives Global Business Growth",
+    "features": {
+      "dataHub": {
+        "title": "Unified Data Hub",
+        "description": "Centralize all your cross-border operations data in one intelligent platform"
+      },
+      "aiAgent": {
+        "title": "AI Agent Automation",
+        "description": "Automate complex workflows with intelligent AI agents that learn and adapt"
+      },
+      "network": {
+        "title": "Service Provider Network",
+        "description": "Connect with verified service providers for seamless collaboration"
+      }
+    }
+  },
+  "amazon": {
+    "title": "Amazon Solutions",
+    "subtitle": "End-to-end tools and services for Amazon precision operations",
+    "productLifecycle": {
+      "title": "Product Lifecycle Management",
+      "pim": {
+        "title": "Product Information Management",
+        "description": "Multi-dimensional Listing maintenance with 20-second data sync across inventory and orders"
+      },
+      "research": {
+        "title": "Product Research & Analysis",
+        "description": "Competitor analysis and market insights to optimize your product strategy"
+      }
+    },
+    "operations": {
+      "title": "Operations Efficiency Tools",
+      "inventory": {
+        "title": "Intelligent Inventory & Order Management",
+        "description": "Real-time FBA and self-fulfillment monitoring with automatic anomaly alerts"
+      },
+      "ads": {
+        "title": "Smart Ad Campaigns",
+        "description": "All-in-one SP/SB ad management with intelligent optimization"
+      },
+      "pricing": {
+        "title": "Automated Pricing Optimization",
+        "description": "Smart pricing based on Buy Box status and competitor analysis"
+      }
+    },
+    "marketing": {
+      "title": "Marketing & Service Enablement",
+      "promotions": {
+        "title": "Promotion Management",
+        "description": "Lightning deals and coupon management with automated inventory linking"
+      },
+      "buyer": {
+        "title": "Buyer & Seller Information Services",
+        "description": "Automated buyer data sync and seller metrics aggregation"
+      },
+      "feedback": {
+        "title": "Feedback & Review Management",
+        "description": "15-minute review alerts with automated negative review workflows"
+      }
+    },
+    "supplyChain": {
+      "title": "Supply Chain & Financial Support",
+      "fulfillment": {
+        "title": "Intelligent Fulfillment Solutions",
+        "description": "Integrated logistics optimization improving delivery efficiency by 30%+"
+      },
+      "accounting": {
+        "title": "Accounting & Tax Automation",
+        "description": "Automated expense aggregation and tax report generation"
+      }
+    },
+    "enhancement": {
+      "title": "E-commerce Capability Enhancement",
+      "courses": {
+        "title": "E-commerce Solution Courses",
+        "description": "Comprehensive cross-border e-commerce education from beginner to advanced"
+      }
+    },
+    "pricing": {
+      "title": "Pricing Plans",
+      "basic": {
+        "title": "Basic Plan",
+        "price": "$9.8/month",
+        "features": [
+          "Full access to 12 key features",
+          "30-day free trial",
+          "No hidden fees",
+          "Core functionality unlocked"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Making global business connections intelligent and efficient",
+    "philosophy": {
+      "title": "Brand Philosophy",
+      "mission": "Make global business connections intelligent and efficient",
+      "vision": "Empower cross-border merchants to connect globally effortlessly, enjoying the efficiency and freedom of intelligence",
+      "values": {
+        "title": "Our Values",
+        "customerFirst": "Customer First: 7×24 expert team support, average issue resolution time < 4 hours",
+        "peopleOriented": "People-Oriented: Empowering every team member to grow and excel",
+        "simplicity": "Simplicity & Reliability: Complex technology, simple experience",
+        "winWin": "Win-Win Collaboration: Success through mutual growth and partnership"
+      }
+    },
+    "milestones": {
+      "title": "Our Journey",
+      "subtitle": "From intelligent tools to ecosystem platform — we've always centered on merchant growth",
+      "timeline": [
+        {
+          "date": "Mar 2025",
+          "title": "ONEPORT Intelligence founded",
+          "description": "Initiated MVP development with vision for intelligent cross-border operations"
+        },
+        {
+          "date": "Dec 2026",
+          "title": "First commercial launch",
+          "description": "Successfully serving 50+ domestic merchants with proven results"
+        },
+        {
+          "date": "Dec 2027",
+          "title": "Service provider ecosystem launch",
+          "description": "Onboarded 200+ partners, creating comprehensive collaboration network"
+        }
+      ]
+    },
+    "team": {
+      "title": "Team Advantages",
+      "subtitle": "Understanding cross-border, mastering AI — making technology truly serve business",
+      "coreTeam": "Core Team: 10+ years in cross-border e-commerce and AI technology, with backgrounds at Amazon, Alibaba International, etc.",
+      "testimonials": {
+        "title": "Customer Success Stories",
+        "cases": [
+          {
+            "company": "Home Goods Merchant",
+            "result": "Increased ROI by 25% in 3 months with ONEPORT",
+            "quote": "ONEPORT transformed our Amazon operations completely"
+          },
+          {
+            "company": "Electronics Seller",
+            "result": "Reduced operational costs by 40% while scaling 3x",
+            "quote": "The AI automation saved us countless hours every day"
+          },
+          {
+            "company": "Fashion Brand",
+            "result": "Improved inventory turnover by 60% with smart forecasting",
+            "quote": "Finally, technology that understands our business needs"
+          }
+        ]
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Log In to ONEPORT",
+      "email": "Email",
+      "password": "Password",
+      "loginButton": "Log In",
+      "signUpLink": "Don't have an account? Sign up",
+      "forgotPassword": "Forgot password?"
+    },
+    "signUp": {
+      "title": "Join ONEPORT",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "signUpButton": "Sign Up",
+      "loginLink": "Already have an account? Log in",
+      "terms": "By signing up, you agree to our Terms of Service and Privacy Policy"
+    }
+  }
+}

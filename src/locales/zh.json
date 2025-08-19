@@ -1,0 +1,196 @@
+{
+  "nav": {
+    "home": "首页",
+    "amazonSolutions": "亚马逊解决方案",
+    "aboutUs": "关于我们",
+    "login": "登录",
+    "signUp": "注册",
+    "language": "语言"
+  },
+  "home": {
+    "heroTitle": "ONEPORT AI — 从驾驭复杂到智能增长的跨境运营革命",
+    "heroSubtitle": "统一数据中枢 + AI Agent自动化 + 服务商协作网络 — 为跨境商家构建一体化智能运营生态，降本增效30%+",
+    "ctaButton": "立即体验AI助手HiFire",
+    "ctaSubtext": "免费获取跨境合规诊断报告",
+    "statsTitle": "全球商家信赖之选",
+    "stats": {
+      "merchants": "500+ 商家",
+      "efficiency": "70% 更快入驻",
+      "growth": "30%+ 成本降低"
+    },
+    "featuresTitle": "智能协作驱动全球业务增长",
+    "features": {
+      "dataHub": {
+        "title": "统一数据中枢",
+        "description": "在一个智能平台中集中管理所有跨境运营数据"
+      },
+      "aiAgent": {
+        "title": "AI Agent自动化",
+        "description": "通过学习和适应的智能AI代理自动化复杂工作流程"
+      },
+      "network": {
+        "title": "服务商协作网络",
+        "description": "与经过验证的服务提供商连接，实现无缝协作"
+      }
+    }
+  },
+  "amazon": {
+    "title": "亚马逊解决方案",
+    "subtitle": "亚马逊精细化运营的端到端工具和服务",
+    "productLifecycle": {
+      "title": "产品生命周期管理",
+      "pim": {
+        "title": "产品信息管理",
+        "description": "多维度Listing维护，20秒内同步库存和订单数据"
+      },
+      "research": {
+        "title": "产品研究与分析",
+        "description": "竞争对手分析和市场洞察，优化您的产品策略"
+      }
+    },
+    "operations": {
+      "title": "运营效率工具",
+      "inventory": {
+        "title": "智能库存与订单管理",
+        "description": "实时FBA和自发货监控，自动异常告警"
+      },
+      "ads": {
+        "title": "智能广告投放",
+        "description": "一体化SP/SB广告管理，智能优化投放效果"
+      },
+      "pricing": {
+        "title": "自动化定价优化",
+        "description": "基于Buy Box状态和竞争对手分析的智能定价"
+      }
+    },
+    "marketing": {
+      "title": "营销与服务赋能",
+      "promotions": {
+        "title": "促销管理",
+        "description": "秒杀和优惠券管理，自动库存关联"
+      },
+      "buyer": {
+        "title": "买卖家信息服务",
+        "description": "自动买家数据同步和卖家指标汇总"
+      },
+      "feedback": {
+        "title": "反馈与评价管理",
+        "description": "15分钟评价提醒，自动负面评价处理流程"
+      }
+    },
+    "supplyChain": {
+      "title": "供应链与财务支持",
+      "fulfillment": {
+        "title": "智能履约解决方案",
+        "description": "集成物流优化，配送效率提升30%+"
+      },
+      "accounting": {
+        "title": "财务税务自动化",
+        "description": "自动费用汇总和税务报告生成"
+      }
+    },
+    "enhancement": {
+      "title": "电商能力提升",
+      "courses": {
+        "title": "电商解决方案课程",
+        "description": "从初级到高级的全面跨境电商教育"
+      }
+    },
+    "pricing": {
+      "title": "定价方案",
+      "basic": {
+        "title": "基础方案",
+        "price": "$9.8/月",
+        "features": [
+          "12项核心功能全权限",
+          "30天免费试用",
+          "无隐藏费用",
+          "核心功能全解锁"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "让全球商业连接更智能、更高效",
+    "philosophy": {
+      "title": "品牌理念",
+      "mission": "让全球商业连接更智能、更高效",
+      "vision": "赋能跨境商家轻松连接全球，享受智能化的效率与自由",
+      "values": {
+        "title": "我们的价值观",
+        "customerFirst": "客户第一：7×24专家团队支持，平均问题解决时间<4小时",
+        "peopleOriented": "以人为本：赋能每一位团队成员成长和卓越",
+        "simplicity": "简约可靠：复杂的技术，简单的体验",
+        "winWin": "合作共赢：通过互惠成长和伙伴关系获得成功"
+      }
+    },
+    "milestones": {
+      "title": "我们的历程",
+      "subtitle": "从智能工具到生态平台——我们始终以商家增长为中心",
+      "timeline": [
+        {
+          "date": "2025年3月",
+          "title": "ONEPORT Intelligence成立",
+          "description": "启动MVP开发，致力于智能跨境运营愿景"
+        },
+        {
+          "date": "2026年12月",
+          "title": "首次商业化上线",
+          "description": "成功服务50+国内商家，成效显著"
+        },
+        {
+          "date": "2027年12月",
+          "title": "服务商生态上线",
+          "description": "入驻200+合作伙伴，打造全面协作网络"
+        }
+      ]
+    },
+    "team": {
+      "title": "团队优势",
+      "subtitle": "懂跨境、精AI——让技术真正服务商业",
+      "coreTeam": "核心团队：10+年跨境电商和AI技术经验，曾任职于亚马逊、阿里巴巴国际等",
+      "testimonials": {
+        "title": "客户成功案例",
+        "cases": [
+          {
+            "company": "家居用品商家",
+            "result": "3个月内ROI提升25%",
+            "quote": "ONEPORT完全改变了我们的亚马逊运营"
+          },
+          {
+            "company": "电子产品卖家",
+            "result": "运营成本降低40%，同时规模扩大3倍",
+            "quote": "AI自动化每天为我们节省了无数小时"
+          },
+          {
+            "company": "时尚品牌",
+            "result": "智能预测将库存周转提高60%",
+            "quote": "终于有了真正理解我们业务需求的技术"
+          }
+        ]
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "登录ONEPORT",
+      "email": "邮箱",
+      "password": "密码",
+      "loginButton": "登录",
+      "signUpLink": "没有账户？立即注册",
+      "forgotPassword": "忘记密码？"
+    },
+    "signUp": {
+      "title": "加入ONEPORT",
+      "firstName": "名",
+      "lastName": "姓",
+      "email": "邮箱",
+      "password": "密码",
+      "confirmPassword": "确认密码",
+      "signUpButton": "注册",
+      "loginLink": "已有账户？立即登录",
+      "terms": "注册即表示您同意我们的服务条款和隐私政策"
+    }
+  }
+}
