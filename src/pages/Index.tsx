@@ -37,13 +37,15 @@ const Index = () => {
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mb-12">
-              <Button 
-                size="lg" 
-                className="bg-gradient-to-r from-[hsl(var(--oneport-orange))] to-[hsl(var(--oneport-orange-dark))] hover:opacity-90 text-white px-8 py-6 text-lg"
-              >
-                {t('home.ctaButton')}
-                <ArrowRight className="ml-2 h-5 w-5" />
-              </Button>
+              <a href="https://app.oneportai.com" target="_blank" rel="noopener noreferrer">
+                <Button 
+                  size="lg" 
+                  className="bg-gradient-to-r from-[hsl(var(--oneport-orange))] to-[hsl(var(--oneport-orange-dark))] hover:opacity-90 text-white px-8 py-6 text-lg"
+                >
+                  {t('home.ctaButton')}
+                  <ArrowRight className="ml-2 h-5 w-5" />
+                </Button>
+              </a>
               <p className="text-sm text-muted-foreground self-center">
                 {t('home.ctaSubtext')}
               </p>
