@@ -52,16 +52,11 @@ const Navigation = () => {
           {/* Right side - Language switcher and auth buttons */}
           <div className="hidden md:flex items-center space-x-4">
             <LanguageSwitcher />
-            <Link to="/login">
+            <a href="https://app.oneportai.com" target="_blank" rel="noopener noreferrer">
               <Button variant="outline" size="sm">
                 {t('nav.login')}
               </Button>
-            </Link>
-            <Link to="/signup">
-              <Button size="sm" className="bg-gradient-to-r from-[hsl(var(--oneport-orange))] to-[hsl(var(--oneport-orange-dark))] hover:opacity-90">
-                {t('nav.signUp')}
-              </Button>
-            </Link>
+            </a>
           </div>
 
           {/* Mobile menu button */}
@@ -99,16 +94,11 @@ const Navigation = () => {
               <LanguageSwitcher />
             </div>
             <div className="flex flex-col space-y-2 px-3 py-2">
-              <Link to="/login" onClick={() => setIsMenuOpen(false)}>
+              <a href="https://app.oneportai.com" target="_blank" rel="noopener noreferrer" onClick={() => setIsMenuOpen(false)}>
                 <Button variant="outline" className="w-full">
                   {t('nav.login')}
                 </Button>
-              </Link>
-              <Link to="/signup" onClick={() => setIsMenuOpen(false)}>
-                <Button className="w-full bg-gradient-to-r from-[hsl(var(--oneport-orange))] to-[hsl(var(--oneport-orange-dark))] hover:opacity-90">
-                  {t('nav.signUp')}
-                </Button>
-              </Link>
+              </a>
             </div>
           </div>
         </div>

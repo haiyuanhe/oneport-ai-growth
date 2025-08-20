@@ -9,12 +9,12 @@
   },
   "home": {
     "heroTitle": "ONEPORT AI — From 'navigating complexity' to 'intelligent growth' in cross-border operations",
-    "heroSubtitle": "Unified data hub + AI Agent automation + service provider collaboration network — building an all-in-one intelligent operation ecosystem for cross-border merchants, cutting costs and boosting efficiency by 30%+",
-    "ctaButton": "Experience AI assistant HiFire now",
+    "heroSubtitle": "Through resource integration and technological innovation, helping more SMEs expand in the global market efficiently",
+    "ctaButton": "Try AI assistant  now",
     "ctaSubtext": "Get a free cross-border compliance diagnostic report",
     "statsTitle": "Trusted by Global Merchants",
     "stats": {
-      "merchants": "500+ merchants",
+      "merchants": "200+ merchants",
       "efficiency": "70% faster onboarding",
       "growth": "30%+ cost reduction"
     },
@@ -130,19 +130,19 @@
       "subtitle": "From intelligent tools to ecosystem platform — we've always centered on merchant growth",
       "timeline": [
         {
-          "date": "Mar 2025",
-          "title": "ONEPORT Intelligence founded",
-          "description": "Initiated MVP development with vision for intelligent cross-border operations"
+          "date": "2024",
+          "title": "Founded & MVP Launch",
+          "description": "ONEPORT AI was founded to simplify global operations for merchants. Our team of e-commerce veterans launched the first AI-powered operations hub"
         },
         {
-          "date": "Dec 2026",
-          "title": "First commercial launch",
-          "description": "Successfully serving 50+ domestic merchants with proven results"
+          "date": "2025",
+          "title": "Clients & Key Integration",
+          "description": "Reached merchants. Rapid integration and adoption across platforms"
         },
         {
-          "date": "Dec 2027",
-          "title": "Service provider ecosystem launch",
-          "description": "Onboarded 200+ partners, creating comprehensive collaboration network"
+          "date": "2026",
+          "title": "Smarter, Broader, Global",
+          "description": "Rolling out next-gen AI agents, real-time compliance monitoring in 12+ countries, and the largest verified partner network"
         }
       ]
     },

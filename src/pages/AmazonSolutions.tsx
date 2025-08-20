@@ -94,32 +94,6 @@ const AmazonSolutions = () => {
         </div>
       </section>
 
-      {/* Features Grid */}
-      <section className="py-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="space-y-16">
-            {features.map((category, categoryIndex) => <div key={categoryIndex}>
-                <h2 className="text-3xl font-bold mb-8 text-center">{category.category}</h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {category.items.map((item, itemIndex) => <Card key={itemIndex} className="hover:shadow-lg transition-all duration-300 group">
-                      <CardHeader>
-                        <div className="flex items-center space-x-3">
-                          <div className="p-2 rounded-full bg-primary/10 text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
-                            {item.icon}
-                          </div>
-                          <CardTitle className="text-lg">{item.title}</CardTitle>
-                        </div>
-                      </CardHeader>
-                      <CardContent>
-                        <p className="text-muted-foreground">{item.description}</p>
-                      </CardContent>
-                    </Card>)}
-                </div>
-              </div>)}
-          </div>
-        </div>
-      </section>
-
       {/* Pricing Section */}
       <section className="py-24 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -152,6 +126,31 @@ const AmazonSolutions = () => {
         </div>
       </section>
       
+      {/* Features Grid */}
+      <section className="py-16">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="space-y-16">
+            {features.map((category, categoryIndex) => <div key={categoryIndex}>
+                <h2 className="text-3xl font-bold mb-8 text-center">{category.category}</h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                  {category.items.map((item, itemIndex) => <Card key={itemIndex} className="hover:shadow-lg transition-all duration-300 group">
+                      <CardHeader>
+                        <div className="flex items-center space-x-3">
+                          <div className="p-2 rounded-full bg-primary/10 text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors">
+                            {item.icon}
+                          </div>
+                          <CardTitle className="text-lg">{item.title}</CardTitle>
+                        </div>
+                      </CardHeader>
+                      <CardContent>
+                        <p className="text-muted-foreground">{item.description}</p>
+                      </CardContent>
+                    </Card>)}
+                </div>
+              </div>)}
+          </div>
+        </div>
+      </section>
       <Footer />
     </div>;
 };

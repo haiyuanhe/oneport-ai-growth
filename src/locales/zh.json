@@ -9,12 +9,12 @@
   },
   "home": {
     "heroTitle": "ONEPORT AI — 从驾驭复杂到智能增长的跨境运营革命",
-    "heroSubtitle": "统一数据中枢 + AI Agent自动化 + 服务商协作网络 — 为跨境商家构建一体化智能运营生态，降本增效30%+",
-    "ctaButton": "立即体验AI助手HiFire",
+    "heroSubtitle": "通过学习和适应的智能AI代理自动化复杂工作流程",
+    "ctaButton": "立即体验",
     "ctaSubtext": "免费获取跨境合规诊断报告",
     "statsTitle": "全球商家信赖之选",
     "stats": {
-      "merchants": "500+ 商家",
+      "merchants": "200+ 商家",
       "efficiency": "70% 更快入驻",
       "growth": "30%+ 成本降低"
     },
@@ -130,19 +130,19 @@
       "subtitle": "从智能工具到生态平台——我们始终以商家增长为中心",
       "timeline": [
         {
-          "date": "2025年3月",
-          "title": "ONEPORT Intelligence成立",
-          "description": "启动MVP开发，致力于智能跨境运营愿景"
+          "date": "2024",
+          "title": "成立并推出 MVP",
+          "description": "ONEPORT AI 的成立旨在简化商家的全球运营。我们经验丰富的电商团队推出了首个 AI 驱动的运营中心"
         },
         {
-          "date": "2026年12月",
+          "date": "2025",
           "title": "首次商业化上线",
-          "description": "成功服务50+国内商家，成效显著"
+          "description": "成功服务多个国内商家，成效显著"
         },
         {
-          "date": "2027年12月",
-          "title": "服务商生态上线",
-          "description": "入驻200+合作伙伴，打造全面协作网络"
+          "date": "2026~",
+          "title": "更智能、更广泛、更全球化",
+          "description": "推出下一代人工智能代理、在 12 个以上国家/地区进行实时合规性监控以及最大的经过验证的合作伙伴网络"
         }
       ]
     },
