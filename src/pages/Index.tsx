@@ -28,7 +28,7 @@ const Index = () => {
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
               <span className="bg-gradient-to-r from-[hsl(var(--oneport-orange))] to-[hsl(var(--oneport-orange-dark))] bg-clip-text text-transparent">
-                {t('home.heroTitle')}
+                ONEPORT AI Grow Global Work Simple
               </span>
             </h1>
             
