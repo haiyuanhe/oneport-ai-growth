@@ -24,9 +24,11 @@ const Navigation = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <span className="text-2xl font-bold bg-gradient-to-r from-[hsl(var(--oneport-orange))] to-[hsl(var(--oneport-orange-dark))] bg-clip-text text-transparent">
-                ONEPORT
-              </span>
+              <img 
+                src="/lovable-uploads/4372f5cf-9987-43f1-a5c6-7c0ff3b7a2e4.png" 
+                alt="ONEPORT AI Logo" 
+                className="h-8 w-auto"
+              />
             </Link>
           </div>
 
