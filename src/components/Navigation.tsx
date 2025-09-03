@@ -13,6 +13,7 @@ const Navigation = () => {
   const navigation = [
     { name: t('nav.home'), href: '/' },
     { name: t('nav.amazonSolutions'), href: '/amazon-solutions' },
+    { name: t('nav.pricing'), href: '/pricing' },
     { name: t('nav.aboutUs'), href: '/about' },
   ];
 

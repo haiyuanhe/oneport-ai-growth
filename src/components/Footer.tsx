@@ -65,6 +65,12 @@ const Footer = () => {
                 {t('nav.amazonSolutions')}
               </a>
               <a 
+                href="/pricing" 
+                className="block text-sm text-white/70 hover:text-[hsl(var(--oneport-orange))] transition-colors"
+              >
+                {t('nav.pricing')}
+              </a>
+              <a 
                 href="/about" 
                 className="block text-sm text-white/70 hover:text-[hsl(var(--oneport-orange))] transition-colors"
               >

@@ -4,7 +4,7 @@ import Footer from '@/components/Footer';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { Package, Search, BarChart3, Target, DollarSign, ShoppingCart, Users, MessageSquare, Truck, Calculator, BookOpen, Check } from "lucide-react";
+import { Package, Search, BarChart3, Target, DollarSign, ShoppingCart, Users, MessageSquare, Truck, Calculator, BookOpen } from "lucide-react";
 import amazonSolutionsImage from "@/assets/amazon-solutions.jpg";
 const AmazonSolutions = () => {
   const {
@@ -94,37 +94,7 @@ const AmazonSolutions = () => {
         </div>
       </section>
 
-      {/* Pricing Section */}
-      <section className="py-24 bg-muted/30">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold mb-4">{t('amazon.pricing.title')}</h2>
-          </div>
-          
-          <div className="max-w-md mx-auto">
-            <Card className="relative overflow-hidden">
-              <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-[hsl(var(--oneport-orange))] to-[hsl(var(--oneport-orange-dark))]"></div>
-              <CardHeader className="text-center">
-                <Badge variant="secondary" className="w-fit mx-auto mb-4">
-                  {t('amazon.pricing.basic.title')}
-                </Badge>
-                <CardTitle className="text-3xl font-bold">
-                  {t('amazon.pricing.basic.price')}
-                </CardTitle>
-              </CardHeader>
-              <CardContent className="space-y-4">
-                {(t('amazon.pricing.basic.features', {
-                returnObjects: true
-              }) as string[]).map((feature: string, index: number) => <div key={index} className="flex items-center space-x-3">
-                    <Check className="h-5 w-5 text-green-500 flex-shrink-0" />
-                    <span className="text-sm">{feature}</span>
-                  </div>)}
-                
-              </CardContent>
-            </Card>
-          </div>
-        </div>
-      </section>
+
       
       {/* Features Grid */}
       <section className="py-16">

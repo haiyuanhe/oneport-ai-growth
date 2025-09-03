@@ -2,6 +2,7 @@
   "nav": {
     "home": "首页",
     "amazonSolutions": "亚马逊解决方案",
+    "pricing": "价格",
     "aboutUs": "关于我们",
     "login": "登录",
     "signUp": "注册",
@@ -45,7 +46,7 @@
       },
       "research": {
         "title": "产品研究与分析",
-        "description": "竞争对手分析和市场洞察，优化您的产品策略"
+        "description": "根据您的店铺产品销量与广告效果，优化您的产品关键字与销售策略。"
       }
     },
     "operations": {
@@ -60,7 +61,7 @@
       },
       "pricing": {
         "title": "自动化定价优化",
-        "description": "基于Buy Box状态和竞争对手分析的智能定价"
+        "description": "基于您的店铺销量与活动推广反馈，进行只能分析与定价"
       }
     },
     "marketing": {
@@ -70,12 +71,12 @@
         "description": "秒杀和优惠券管理，自动库存关联"
       },
       "buyer": {
-        "title": "买卖家信息服务",
-        "description": "自动买家数据同步和卖家指标汇总"
+        "title": "买家信息服务",
+        "description": "自动同步站内信，及时响应买家需求，提供更优质的服务"
       },
       "feedback": {
         "title": "反馈与评价管理",
-        "description": "15分钟评价提醒，自动负面评价处理流程"
+        "description": "根据您店铺的反馈与评价，自动分析与改善"
       }
     },
     "supplyChain": {
@@ -191,6 +192,48 @@
       "signUpButton": "注册",
       "loginLink": "已有账户？立即登录",
       "terms": "注册即表示您同意我们的服务条款和隐私政策"
+    }
+  },
+  "pricing": {
+    "title": "定价方案",
+    "subtitle": "为您的业务增长选择完美方案",
+    "plans": {
+      "title": "简单透明的定价",
+      "subtitle": "从基础方案开始，随业务增长而扩展",
+      "basic": {
+        "title": "基础方案",
+        "price": "$9.8/月",
+        "description": "适合刚起步的小型企业",
+        "features": [
+          "12项核心功能全权限",
+          "30天免费试用",
+          "无隐藏费用",
+          "核心功能全解锁"
+        ]
+      }
+    },
+    "features": {
+      "title": "包含内容",
+      "subtitle": "跨境运营成功所需的一切",
+      "list": [
+        {
+          "title": "AI驱动自动化",
+          "description": "通过智能AI代理自动化复杂工作流程"
+        },
+        {
+          "title": "实时分析",
+          "description": "深入了解您的运营表现"
+        },
+        {
+          "title": "24/7支持",
+          "description": "随时提供专家团队支持"
+        }
+      ]
+    },
+    "cta": {
+      "title": "准备开始了吗？",
+      "description": "加入数千名信任ONEPORT AI的商家",
+      "button": "开始免费试用"
     }
   },
   "footer": {

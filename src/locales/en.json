@@ -2,6 +2,7 @@
   "nav": {
     "home": "Home",
     "amazonSolutions": "Amazon Solutions",
+    "pricing": "Pricing",
     "aboutUs": "About Us",
     "login": "Log In",
     "signUp": "Sign Up",
@@ -45,7 +46,7 @@
       },
       "research": {
         "title": "Product Research & Analysis",
-        "description": "Competitor analysis and market insights to optimize your product strategy"
+        "description": "Optimize your product keywords and sales strategies based on your store product sales and advertising results"
       }
     },
     "operations": {
@@ -60,7 +61,7 @@
       },
       "pricing": {
         "title": "Automated Pricing Optimization",
-        "description": "Smart pricing based on Buy Box status and competitor analysis"
+        "description": "Based on your store sales and promotion feedback, we can conduct intelligent analysis and pricing"
       }
     },
     "marketing": {
@@ -70,12 +71,12 @@
         "description": "Lightning deals and coupon management with automated inventory linking"
       },
       "buyer": {
-        "title": "Buyer & Seller Information Services",
-        "description": "Automated buyer data sync and seller metrics aggregation"
+        "title": "Seller Information Services",
+        "description": "Automatically synchronize internal messages to promptly respond to seller's needs and provide better services"
       },
       "feedback": {
         "title": "Feedback & Review Management",
-        "description": "15-minute review alerts with automated negative review workflows"
+        "description": "Automatically analyze and improve based on your store’s feedback and reviews"
       }
     },
     "supplyChain": {
@@ -191,6 +192,48 @@
       "signUpButton": "Sign Up",
       "loginLink": "Already have an account? Log in",
       "terms": "By signing up, you agree to our Terms of Service and Privacy Policy"
+    }
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Choose the perfect plan for your business growth",
+    "plans": {
+      "title": "Simple, Transparent Pricing",
+      "subtitle": "Start with our basic plan and scale as you grow",
+      "basic": {
+        "title": "Basic Plan",
+        "price": "$9.8/month",
+        "description": "Perfect for small businesses getting started",
+        "features": [
+          "Full access to 12 key features",
+          "30-day free trial",
+          "No hidden fees",
+          "Core functionality unlocked"
+        ]
+      }
+    },
+    "features": {
+      "title": "What's Included",
+      "subtitle": "Everything you need to succeed in cross-border operations",
+      "list": [
+        {
+          "title": "AI-Powered Automation",
+          "description": "Automate complex workflows with intelligent AI agents"
+        },
+        {
+          "title": "Real-time Analytics",
+          "description": "Get insights into your operations performance"
+        },
+        {
+          "title": "24/7 Support",
+          "description": "Expert team support whenever you need it"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Join thousands of merchants who trust ONEPORT AI",
+      "button": "Start Free Trial"
     }
   },
   "footer": {
