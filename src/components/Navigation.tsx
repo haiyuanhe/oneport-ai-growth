@@ -15,6 +15,7 @@ const Navigation = () => {
     { name: t('nav.amazonSolutions'), href: '/amazon-solutions' },
     { name: t('nav.pricing'), href: '/pricing' },
     { name: t('nav.aboutUs'), href: '/about' },
+    { name: t('privacy.nav'), href: '/privacy' },
   ];
 
   const isActive = (path: string) => location.pathname === path;

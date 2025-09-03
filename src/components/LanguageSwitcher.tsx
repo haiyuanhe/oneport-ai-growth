@@ -11,7 +11,7 @@ import { Globe } from "lucide-react";
 
 const LanguageSwitcher = () => {
   const { i18n, t } = useTranslation();
-  const [currentLanguage, setCurrentLanguage] = useState(i18n.language);
+  const [currentLanguage, setCurrentLanguage] = useState(localStorage.getItem('language') || 'zh');
 
   const changeLanguage = (lng: string) => {
     i18n.changeLanguage(lng);

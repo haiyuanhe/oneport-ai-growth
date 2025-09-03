@@ -76,6 +76,12 @@ const Footer = () => {
               >
                 {t('nav.aboutUs')}
               </a>
+              <a 
+                href="/privacy" 
+                className="block text-sm text-white/70 hover:text-[hsl(var(--oneport-orange))] transition-colors"
+              >
+                {t('privacy.nav')}
+              </a>
             </div>
           </div>
         </div>
